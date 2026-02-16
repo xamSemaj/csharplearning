@@ -1,0 +1,40 @@
+ Digital ID Landing Page
+
+This project is a sleek, minimalist digital ID landing page designed for web designers and developers. It connects your various websites and projects in one place—serving as a digital ID card that shows who you are, what you do, and provides links to your social media profiles and recent projects.
+
+---
+
+ Features
+
+- Responsive Design: 
+  Adapts seamlessly to mobile devices, desktops, and high-resolution displays (e.g., 4K).
+
+- Theme Toggle:  
+  Easily switch between dark and light modes using CSS variables for quick styling changes.
+
+- Dynamic Content:  
+  All key details (name, email, social links, projects) are stored in a JSON file for easy updates without touching the HTML or JavaScript.
+
+- Social Icons: 
+  Uses Font Awesome for GitHub and LinkedIn icons, which have been styled to be prominent.
+
+- Smooth Animations:
+  GSAP, ScrollTrigger, and AOS provide subtle, modern animations for a smooth user experience.
+
+- Clean & Well-Documented Code:
+  The code is structured and commented to ensure that future maintenance is straightforward.
+
+---
+
+## Technologies & Dependencies
+
+- **HTML5, CSS3, JavaScript**
+- **GSAP & ScrollTrigger:** For advanced animations.
+- **AOS (Animate on Scroll):** For scroll-triggered effects.
+- **Font Awesome:** For social media icons.
+- **JSON:** For managing dynamic content.
+
+---
+
+## Project Structure
+
